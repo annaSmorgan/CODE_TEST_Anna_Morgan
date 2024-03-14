@@ -1,0 +1,14 @@
+E:\DEV Projects\TextMatching\TextMatching\bin\Debug\net8.0\TextMatching.exe
+E:\DEV Projects\TextMatching\TextMatching\bin\Debug\net8.0\TextMatching.deps.json
+E:\DEV Projects\TextMatching\TextMatching\bin\Debug\net8.0\TextMatching.runtimeconfig.json
+E:\DEV Projects\TextMatching\TextMatching\bin\Debug\net8.0\TextMatching.dll
+E:\DEV Projects\TextMatching\TextMatching\bin\Debug\net8.0\TextMatching.pdb
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\TextMatching.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\TextMatching.AssemblyInfoInputs.cache
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\TextMatching.AssemblyInfo.cs
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\TextMatching.csproj.CoreCompileInputs.cache
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\TextMatching.dll
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\refint\TextMatching.dll
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\TextMatching.pdb
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\TextMatching.genruntimeconfig.cache
+E:\DEV Projects\TextMatching\TextMatching\obj\Debug\net8.0\ref\TextMatching.dll
